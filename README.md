@@ -1,1 +1,1 @@
-# mogakko-react
+# mogakko-react project
