@@ -1,0 +1,12 @@
+.TextStyle {
+    margin-left: 30px;
+    color: #00a2ff;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.GuStyle{
+    text-align: center;
+    font-size: 20px;
+    background-color:rgb(212, 208, 203);
+}
